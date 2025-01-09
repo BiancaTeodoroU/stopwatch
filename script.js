@@ -1,4 +1,4 @@
-const timerEl = document.querySelector('.timer')
+const timerEl = document.querySelector('.c-timer')
 const marksList = document.querySelector('.marks-list')
 let interValId = 0;
 let timer = 0;
